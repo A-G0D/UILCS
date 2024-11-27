@@ -1,5 +1,3 @@
-1. [Example](#OOP)
-
 ---
 ### Order Of Operations (Greater = First, Associativity = Direction) <a name="OOP"></a>
 | Level | Operator                                                                 | Description                       | Associativity   |
