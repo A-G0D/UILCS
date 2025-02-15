@@ -390,7 +390,7 @@ Java’s regex functionality is provided through the `java.util.regex` package, 
 | `\S`       | Matches a non-whitespace                    | `\S` matches `a`, `3`, etc.           |
 | `^`        | Matches the start of a string               | `^a` matches `apple` but not `banana`.|
 | `$`        | Matches the end of a string                 | `a$` matches `banana` but not `apple`.|
-| `|`        | Matches either expression                   | `a|b` matches `a` or `b`.             |
+| `\|`        | Matches either expression                   | `a\|b` matches `a` or `b`.             |
 
 ---
 
